@@ -13,4 +13,4 @@
 `<docker run -it --name container-name 1703706/flask-with-keras>`
 
 
-## Change HOST-IP(Flask) in the /flask-with-keras/app.py according to your Docker Contoaner IP
+## Change HOST-IP(Flask) in the directory  `</flask-with-keras/app.py>` according to your Docker Contoaner IP
