@@ -1,4 +1,7 @@
 # Developed-Web-App-Using-Flask-integrated-with-Deep-Learning-and-Docker.
+# ----------------------------------------------------------
+
+# Follow these steps
 
 ## Pull this image from docker hub in to your docker host
 
